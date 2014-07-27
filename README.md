@@ -20,19 +20,20 @@ Requires reshape2
 
 To run the script, source `run_analysis.R`. After running, you will see the following output as the script works:
 
-* `Reading data sets
-* `STR - checking the variables for numeric
-* `Change X_test and X_train to numeric data frames from character
-* `Add the feature labels to X_test
-* `Change Y_test labels to include human readable Activity
-* `bind X_teat and Y_test now properly labeled
-* `repeat the process for respective train txt files
-* `combine XY_test and XY_ train to form completed tidy data set
-* `completed tidy data set has activity labels added
-* `ONLY mean and std metrics extracted 
-* `New data.frame created based on these extracted metrics 
-* `Creates a second independent tidy data set with the average of each variable for each activity and each subject 
-
+```
+Reading data sets
+STR - checking the variables for numeric
+Change X_test and X_train to numeric data frames from character
+Add the feature labels to X_test
+Change Y_test labels to include human readable Activity
+bind X_teat and Y_test now properly labeled
+repeat the process for respective train txt files
+combine XY_test and XY_ train to form completed tidy data set
+completed tidy data set has activity labels added
+ONLY mean and std metrics extracted 
+New data.frame created based on these extracted metrics 
+Creates a second independent tidy data set with the average of each variable for each activity and each subject 
+```
 
 ## Process
 
@@ -52,5 +53,5 @@ To run the script, source `run_analysis.R`. After running, you will see the foll
 
 ## Clean Data set
 
-The resulting clean dataset is exported to home directory as Second_Tidy_Averages
+The resulting clean dataset is exported to working directory as Second_Tidy_Averages.csv
 

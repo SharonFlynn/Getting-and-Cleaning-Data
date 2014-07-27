@@ -44,8 +44,8 @@ To run the script, source `run_analysis.R`. After running, you will see the foll
 6. Add subject 
 7. Repeat steps 3 to 6 for Train data
 8. bind the two XY_Train & XY_Test together creating complete data set
-9. NOTE 3rd request of project here Uses descriptive activity names to name the activities in the data set 
-10.SECOND request of project Extracts only the measurements on the mean and standard deviation for each measurement. 
+9.  NOTE 3rd request of project here Uses descriptive activity names to name the activities in the data set 
+10. The second request of project Extracts only the measurements on the mean and standard deviation for each measurement. 
 11. Using the extracted elements create a data set that has only the mean & std variables
 12.Creates a second independent tidy data set with the average of each variable for each activity and each subject from the set with just mean and std
 13. Write the clean dataset to disk 

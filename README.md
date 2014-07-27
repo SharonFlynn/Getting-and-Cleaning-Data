@@ -20,18 +20,18 @@ Requires reshape2
 
 To run the script, source `run_analysis.R`. After running, you will see the following output as the script works:
 
-*’[run_analysis.R] Reading data sets
-*`[run_analysis.R] STR - checking the variables for numeric
-*`[run_analysis.R] Change X_test and X_train to numeric data frames from character
-*`[run_analysis.R] Add the feature labels to X_test
-*`[run_analysis.R] Change Y_test labels to include human readable Activity
-*`[run_analysis.R] bind X_teat and Y_test now properly labeled
-*`[run_analysis.R] repeat the process for respective train txt files
-*`[run_analysis.R] combine XY_test and XY_ train to form completed tidy data set
-*`[run_analysis.R] completed tidy data set has activity labels added
-*`[run_analysis.R] ONLY mean and std metrics extracted 
-*`[run_analysis.R] New data.frame created based on these extracted metrics 
-*`[run_analysis.R] Creates a second independent tidy data set with the average of each variable for each activity and each subject 
+* `Reading data sets
+* `STR - checking the variables for numeric
+* `Change X_test and X_train to numeric data frames from character
+* `Add the feature labels to X_test
+* `Change Y_test labels to include human readable Activity
+* `bind X_teat and Y_test now properly labeled
+* `repeat the process for respective train txt files
+* `combine XY_test and XY_ train to form completed tidy data set
+* `completed tidy data set has activity labels added
+* `ONLY mean and std metrics extracted 
+* `New data.frame created based on these extracted metrics 
+* `Creates a second independent tidy data set with the average of each variable for each activity and each subject 
 
 
 ## Process

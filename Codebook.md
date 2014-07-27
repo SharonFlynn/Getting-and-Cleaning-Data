@@ -7,9 +7,9 @@
 
 ## Extracted Features from data frame Tidy Complete i.e. all 8 original text files combined
 
-*”`tBodyAcc-mean()-X"
-*` "tBodyAcc-mean()-Y"
-*` "tBodyAcc-mean()-Z"
+* `tBodyAcc-mean()-X`
+* `tBodyAcc-mean()-Y`
+* `tBodyAcc-mean()-Z`
 *` "tBodyAcc-std()-X"
 *` "tBodyAcc-std()-Y"
 * `”tBodyAcc-std()-Z"
